@@ -1,7 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://ecomeg.netlify.app"
 title = "Meghna"
-theme = "meghna-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
