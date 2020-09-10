@@ -443,7 +443,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgb(139, 71, 71);  /* Background of top banner */
+  background: rgb(255, 255, 255);  /* Background of top banner */
   position: absolute;
   top: 0;
   right: 0;
@@ -534,7 +534,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgb(255, 255, 255);
+  background: rgb(80, 80, 80);
   height: 100%;
   width: 100%;
   position: absolute;
