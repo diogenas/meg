@@ -405,9 +405,9 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #838383;
+  background-color: #ffffff;
   width: 100%;
-  margin-bottom: 0;
+  margin-bottom: 1;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
@@ -443,7 +443,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgb(255, 255, 255);
+  background: rgb(139, 71, 71);
   position: absolute;
   top: 0;
   right: 0;
