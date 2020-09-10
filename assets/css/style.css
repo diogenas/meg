@@ -13,7 +13,7 @@ html {
 body {
   background-color: #ffffff;
   font-family: "Lato";
-  color: #9643a1;
+  color: #000000;    /* Text colour */
   -webkit-font-smoothing: antialiased;
 }
 
@@ -387,7 +387,7 @@ a:hover {
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
-  color: #fff;
+  color: rgb(50, 52, 150);
   position: relative;
 }
 
