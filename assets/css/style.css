@@ -286,7 +286,7 @@ a:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #577c66;
+  background-color: #ffffff;
   z-index: 9999;
   display: flex;
   align-items: center;
@@ -309,7 +309,7 @@ a:hover {
 }
 
 .title p {
-  color: #666;
+  color: rgb(228, 48, 48);
 }
 
 .title.title-white h2 {
@@ -534,7 +534,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(114, 44, 44, 0.7);
   height: 100%;
   width: 100%;
   position: absolute;
