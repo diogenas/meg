@@ -97,25 +97,25 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(138, 42, 42, 0.5);
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
 }
 
 .btn:focus {
-  color: rgb(221, 221, 221);
+  color: rgb(145, 20, 20);
 }
 
 .btn-transparent {
-  border: 1px solid #2085017e;
+  border: 1px solid #208501;
 }
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #2085017e;
+  background-color: #208501;
   border: 1px solid transparent;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .border-meghna {
