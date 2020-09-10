@@ -97,25 +97,25 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: rgb(255, 255, 255);
+  color: rgba(255, 255, 255, 0.5);
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
 }
 
 .btn:focus {
-  color: #ddd;
+  color: rgb(221, 221, 221);
 }
 
 .btn-transparent {
-  border: 1px solid #af54a0;
+  border: 1px solid #2085017e;
 }
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #2085017e;
   border: 1px solid transparent;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .border-meghna {
@@ -227,7 +227,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #2085017;
   color: #fff;
 }
 
