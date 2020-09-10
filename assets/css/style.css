@@ -545,7 +545,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #ffffff;
+  background: #a7a7a7;  /*Block background*/
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -1775,7 +1775,7 @@ aside.widget {
 }
 
 .tab-excerpt h4 a {
-  color: #fff;
+  color: rgb(141, 61, 61);
 }
 
 .tab-excerpt h4 a:hover {
