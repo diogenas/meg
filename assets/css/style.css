@@ -511,7 +511,7 @@ a:hover {
 }
 
 .hero-area-video .block {
-  color: rgb(121, 20, 20);
+  color: rgb(243, 243, 243);
   text-align: center;
 }
 
@@ -522,7 +522,7 @@ a:hover {
 }
 
 .hero-area-video .block p {
-  color: rgb(163, 33, 163);
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 3px;
@@ -534,7 +534,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgba(114, 44, 44, 0.7);
+  background: rgb(255, 255, 255);
   height: 100%;
   width: 100%;
   position: absolute;
