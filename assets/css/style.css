@@ -1669,7 +1669,7 @@ input#e-mail,
 }
 
 #post-thumb .owl-buttons {
-  color: #fff;
+  color: rgb(197, 128, 128);
 }
 
 .post-meta {
@@ -1712,7 +1712,7 @@ input#e-mail,
 
 .post-excerpt .more a:hover {
   background-color: #6CB670;
-  color: #fff;
+  color: rgb(110, 61, 61)82, 46, 46);
 }
 
 aside.widget {
@@ -1720,7 +1720,7 @@ aside.widget {
 }
 
 .widget-title>h3 {
-  color: #fff;
+  color: rgb(202, 111, 111);
   margin-bottom: 15px;
   margin-top: 0;
   position: relative;
@@ -1733,7 +1733,7 @@ aside.widget {
 #search-submit {
   background: none;
   border: 0;
-  color: #C8C8CA;
+  color: #484885;
   display: block;
   font-size: 16px;
   height: 32px;
@@ -1810,7 +1810,7 @@ aside.widget {
 
 .widget-content .tag {
   background-color: #2F383D;
-  color: #fff;
+  color: rgb(119, 31, 119);
   display: inline-block;
   margin-bottom: 10px;
   margin-right: 5px;
@@ -1819,7 +1819,7 @@ aside.widget {
 
 .widget-content .tag:hover {
   background-color: #6CB670;
-  color: #fff;
+  color: rgb(35, 36, 122);
 }
 
 .post-pagination {
@@ -1855,7 +1855,7 @@ aside.widget {
 .post-pagination ul li a:hover,
 .post-pagination ul li.active a {
   background-color: #6CB670;
-  color: #fff;
+  color: rgb(76, 63, 196);
 }
 
 /*=================================================================
@@ -2043,14 +2043,14 @@ figcaption {
 
 /* Non solid icons get a stroke */
 .resp-sharing-button__icon {
-  stroke: #fff;
+  stroke: rgb(112, 31, 108);
   fill: none
 }
 
 /* Solid icons get a fill */
 .resp-sharing-button__icon--solid,
 .resp-sharing-button__icon--solidcircle {
-  fill: #fff;
+  fill: rgb(109, 22, 105);
   stroke: none
 }
 
