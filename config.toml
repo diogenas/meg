@@ -48,27 +48,27 @@ weight = 1
 [[menu.main]]
 name = "services"
 URL = "services"
-weight = 2
+weight = 0
 
 [[menu.main]]
 name = "portfolio"
 URL = "portfolio"
-weight = 3
+weight = 0
 
 [[menu.main]]
 name = "team"
 URL = "team"
-weight = 4
+weight = 0
 
 [[menu.main]]
 name = "pricing"
 URL = "pricing"
-weight = 5
+weight = 0
 
 [[menu.main]]
 name = "blog"
 URL = "blog"
-weight = 6
+weight = 0
 
 [[menu.main]]
 name = "contact"
@@ -99,7 +99,7 @@ preloader = "images/logo.png"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
