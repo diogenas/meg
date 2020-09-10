@@ -443,7 +443,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgb(139, 71, 71);
+  background: rgb(139, 71, 71);  /* Background of top banner */
   position: absolute;
   top: 0;
   right: 0;
@@ -494,7 +494,7 @@ a:hover {
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: #208501;
+  border-color: #208501;   /* Button of the top banner*/
   padding: 14px 50px;
   font-size: 18px;
   font-size: 16px;
