@@ -63,7 +63,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: rgb(46, 104, 131);
   transition: all .3s ease-in 0s;
 }
 
@@ -301,7 +301,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: rgb(168, 41, 41);
 }
 
 .title h2 span {
@@ -313,11 +313,11 @@ a:hover {
 }
 
 .title.title-white h2 {
-  color: #fff;
+  color: rgb(25, 163, 71);
 }
 
 .bg-gray {
-  background: #f9f9f9;
+  background: #533838;
 }
 
 .section-bg {
