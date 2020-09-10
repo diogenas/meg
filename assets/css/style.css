@@ -473,7 +473,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
-  color: #fff;
+  color: #000;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
@@ -486,7 +486,7 @@ a:hover {
 }
 
 .hero-area .block p {
-  color: #fff;
+  color: rgb(110, 43, 43);
   font-size: 20px;
   width: 70%;
   margin: 0 auto;
@@ -494,7 +494,7 @@ a:hover {
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: #fff;
+  border-color: rgb(35, 53, 151);
   padding: 14px 50px;
   font-size: 18px;
   font-size: 16px;
@@ -522,7 +522,7 @@ a:hover {
 }
 
 .hero-area-video .block p {
-  color: #fff;
+  color: rgb(163, 33, 163);
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 3px;
@@ -545,7 +545,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #ffffff;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
