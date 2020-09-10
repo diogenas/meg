@@ -443,7 +443,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(88, 150, 155, 0.63);
+  background: rgb(255, 255, 255);
   position: absolute;
   top: 0;
   right: 0;
