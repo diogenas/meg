@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/leaf.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "ECORDINARY"
-  content : "Be green, be ecordinary"
+  content : "Be **green**, be **ecordinary**"
   button:
     enable : true
     label : "Visit us"
