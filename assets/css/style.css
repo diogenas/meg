@@ -405,7 +405,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #5e7f85;
+  background-color: #838383;
   width: 100%;
   margin-bottom: 0;
 }
@@ -1751,7 +1751,7 @@ aside.widget {
 }
 
 .tab-post-nav {
-  background-color: #4A535A;
+  background-color: #a34c8d;
 }
 
 .tab-post-nav li {
@@ -1784,7 +1784,7 @@ aside.widget {
 
 .tab-post-nav li a {
   border-top: 3px solid transparent;
-  color: #fff;
+  color: rgb(37, 117, 131);
   display: block;
   padding: 13px 18px;
   text-align: center;
