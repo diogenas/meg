@@ -217,8 +217,8 @@ a:hover {
 }
 
 .btn-main {
-  background: #57cbcc;
-  color: #fff;
+  background: #2085017e;
+  color: rgb(0, 0, 0);
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
@@ -473,7 +473,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
-  color: rgb(29, 72, 136);
+  color: #208501;
   text-transform: capitalize;
   font-weight: 300;
   margin-bottom: 20px;
@@ -494,7 +494,7 @@ a:hover {
 
 .hero-area .block .btn-transparent {
   margin-top: 40px;
-  border-color: rgb(35, 53, 151);
+  border-color: #208501;
   padding: 14px 50px;
   font-size: 18px;
   font-size: 16px;
@@ -511,7 +511,7 @@ a:hover {
 }
 
 .hero-area-video .block {
-  color: #fff;
+  color: rgb(121, 20, 20);
   text-align: center;
 }
 
