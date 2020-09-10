@@ -15,7 +15,7 @@
 		</div>
 		{{ end }}
 		<!-- Enables Logo  -->
-		<img class="img-fluid" data-src="{{ site.Params.logo | absURL }}" alt="{{ .Site.Title }}" height="100">
+		<img class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
 		<!-- Enables Text rather than logo -->
 		<!-- <h1>{{ .title | markdownify }}</h1>-->
 		<p>{{ .content | markdownify }}</p>
