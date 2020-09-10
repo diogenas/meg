@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/leaf.webp"
-  bg_image : "images/backgrounds/leaf.jpg"
+  bg_image_webp : ""
+  bg_image : ""
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "ECORDINARY"
   content : "Be **green**, be **ecordinary**"
