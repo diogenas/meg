@@ -115,7 +115,7 @@ a:hover {
 .btn-transparent:focus {
   background-color: #208501;
   border: 1px solid transparent;
-  color: rgb(255, 255, 255);
+  color: rgb(25, 35, 128);
 }
 
 .border-meghna {
@@ -147,8 +147,8 @@ a:hover {
 }
 
 .sub-title>h3 {
-  border-left: 3px solid rgb(221, 221, 221);
-  border-right: 3px solid rgb(221, 221, 221);
+  border-left: 3px solid rgb(94, 178, 184);
+  border-right: 3px solid rgb(131, 67, 122);
   display: inline-block;
   padding: 5px 25px;
   text-transform: uppercase;
@@ -457,7 +457,7 @@ a:hover {
 }
 
 .hero-area .block .video-button {
-  background: #fff;
+  background: rgb(59, 128, 116);
   color: #57cbcc;
   display: inline-block;
   height: 60px;
