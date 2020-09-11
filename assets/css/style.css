@@ -705,20 +705,20 @@ a:hover {
 
 .form-meghna input:hover,
 .form-meghna textarea:hover {
-  border-color: #57cbcc;
+  border-color: #208501;
 }
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  background: #208501;
   padding: 12px 0;
   width: 100%;
   margin: 0;
 }
 
 #contact-submit:hover {
-  border-color: #2c9091;
-  background-color: #2c9091;
+  border-color: #208501;
+  background-color: #208501;
 }
 
 .form-meghna ::placeholder {
@@ -1160,7 +1160,7 @@ a:hover {
 
 .owl-controls .owl-page span {
   background-color: transparent;
-  border: 2px solid #fff;
+  border: 2px solid rgb(184, 53, 151);
   border-radius: 50px;
   display: block;
   height: 13px;
@@ -1187,7 +1187,7 @@ a:hover {
 
 #our-clietns .owl-next,
 #our-clietns .owl-prev {
-  border: 1px solid #ddd;
+  border: 1px solid rgb(204, 32, 32);
   border-radius: 50px;
   display: inline-block;
   margin: 45px 0 0;
@@ -1310,14 +1310,14 @@ a:hover {
 .blog-subtitle {
   font-size: 15px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #dedede;
+  border-bottom: 1px solid #961818;
   margin-bottom: 25px;
   text-transform: uppercase;
 }
 
 .next-prev {
-  border-bottom: 1px solid #dedede;
-  border-top: 1px solid #dedede;
+  border-bottom: 1px solid #b9a0a0;
+  border-top: 1px solid #601db8;
   margin: 20px 0;
   padding: 25px 0;
 }
@@ -1366,7 +1366,7 @@ a:hover {
 }
 
 .post-author>img {
-  border: 1px solid #dedede;
+  border: 1px solid #a81b1b;
   max-width: 120px;
   padding: 5px;
   width: 100%;
@@ -1381,7 +1381,7 @@ a:hover {
 }
 
 .comment-wrap {
-  border: 1px solid #dedede;
+  border: 1px solid #6d1616;
   border-radius: 1px;
   margin-left: 20px;
   padding: 10px;
@@ -1418,7 +1418,7 @@ a:hover {
 .comment-reply-form input,
 .comment-reply-form textarea {
   height: 35px;
-  border-radius: 0;
+  border-radius: 1;  /*Org: 0*/
   box-shadow: none;
 }
 
@@ -1547,7 +1547,7 @@ input#e-mail,
 
 .copyright {
   padding: 20px 0;
-  color: rgb(92, 89, 89);
+  color: rgb(121, 121, 121);
 }
 
 .copyright img {
@@ -1992,7 +1992,7 @@ blockquote {
 .form-control-meghna .form-control {
   background-color: transparent;
   padding: 5px 10px;
-  color: #ddd;
+  color: rgb(87, 72, 129);
   border: 1px solid rgba(236, 239, 241, 0.07);
 }
 
@@ -2018,7 +2018,7 @@ figcaption {
 
 .resp-sharing-button__link {
   text-decoration: none;
-  color: #fff;
+  color: rgb(75, 68, 139);
   margin: 0.5em
 }
 
