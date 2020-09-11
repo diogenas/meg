@@ -418,7 +418,7 @@ a:hover {
 }
 
 .navbar-toggler:focus {
-  outline: 2;
+  outline: 1;
 }
 
 .bg-1 {

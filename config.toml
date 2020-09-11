@@ -45,30 +45,30 @@ name = "about"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "services"
-URL = "services"
-weight = 0
+#[[menu.main]]
+#name = "services"
+#URL = "services"
+#weight = 2
 
-[[menu.main]]
-name = "portfolio"
-URL = "portfolio"
-weight = 0
+#[[menu.main]]
+#name = "portfolio"
+#URL = "portfolio"
+#weight = 3
 
-[[menu.main]]
-name = "team"
-URL = "team"
-weight = 0
+#[[menu.main]]
+#name = "team"
+#URL = "team"
+#weight = 4
 
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 0
+#[[menu.main]]
+#name = "pricing"
+#URL = "pricing"
+#weight = 5
 
-[[menu.main]]
-name = "blog"
-URL = "" #same as above
-weight = 0
+#[[menu.main]]
+#name = "blog"
+#URL = "" 
+#weight = 6
 
 [[menu.main]]
 name = "contact"
