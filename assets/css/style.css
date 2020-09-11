@@ -80,7 +80,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #208501;
 }
 
 .kill-margin-bottom {
@@ -127,7 +127,7 @@ a:hover {
 }
 
 .border-meghna:before {
-  background-color: #fff;
+  background-color: rgb(124, 51, 112);
   content: '';
   height: 6px;
   left: 50%;
@@ -213,11 +213,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #208501;
 }
 
 .btn-main {
-  background: #2085017e;
+  background: #208501;
   color: rgb(0, 0, 0);
   display: inline-block;
   font-size: 14px;
@@ -321,7 +321,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #ffffff;
+  background: #ffffff;   /*Colour of certain sections*/
 }
 
 .overly {
@@ -692,14 +692,14 @@ a:hover {
 
 .form-meghna .form-control {
   background-color: transparent;
-  border-radius: 0;
+  border-radius: 1;
   padding: 5px 10px;
   color: rgb(54, 53, 68);
   border: 1px solid rgba(236, 239, 241, 0.07);
 }
 
 .form-meghna .form-control:focus {
-  border-color: none;
+  border-color: #208501;
   box-shadow: none;
 }
 
