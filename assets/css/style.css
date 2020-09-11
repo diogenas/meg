@@ -691,7 +691,7 @@ a:hover {
 }
 
 .form-meghna .form-control {
-  background-color: #fafafa; /*Org: "transparent", Background of forms*/
+  background-color: transparent; /*Org: "transparent", Background of forms*/
   border-radius: 1;
   padding: 5px 10px;
   color: rgb(54, 53, 68);
