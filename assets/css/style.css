@@ -161,7 +161,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #389194;
+  background-color: #208501;
 }
 
 .bg-dark {
@@ -405,7 +405,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #ebebeb;  /*Background of navigation bar*/
+  background-color: #dbdbdb;  /*Background of navigation bar*/
   width: 100%;
   margin-bottom: 1;
 }
