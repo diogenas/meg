@@ -148,7 +148,7 @@ a:hover {
 
 .sub-title>h3 {
   border-left: 3px solid #208501;
-  border-right: 3px solid #000;
+  border-right: 3px solid #208501;
   display: inline-block;
   padding: 5px 25px;
   text-transform: uppercase;
@@ -301,11 +301,11 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: rgb(168, 41, 41);
+  color: #208501;
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #000000;
 }
 
 .title p {
