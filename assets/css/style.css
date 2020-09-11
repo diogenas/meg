@@ -722,7 +722,7 @@ a:hover {
 }
 
 .form-meghna ::placeholder {
-  color: rgb(156, 107, 107) !important;
+  color: #747474 !important;  /*Text in a form*/
 }
 
 .google-map #map-canvas {
