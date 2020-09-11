@@ -695,7 +695,7 @@ a:hover {
   border-radius: 1;
   padding: 5px 10px;
   color: rgb(54, 53, 68);
-  border: 1px solid #fafafc;
+  border: 1px solid #747474;
 }
 
 .form-meghna .form-control:focus {
@@ -1344,13 +1344,13 @@ a:hover {
 }
 
 .social-profile ul li a {
-  color: #4e595f;
+  color: #fafafa;
   display: block;
   font-size: 16px;
 }
 
 .social-profile ul li a i:hover {
-  color: #57cbcc;
+  color: #208501;
 }
 
 .comments-section {
@@ -1518,7 +1518,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #fafafa;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1527,16 +1527,16 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #57cbcc;
+  background: #fafafa;
 }
 
 .social-icon ul li a:hover i {
-  color: rgb(81, 145, 153);
+  color: #208501;
   opacity: 1;
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #747474;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;

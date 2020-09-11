@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Please write us. Please.
-  content : Something about the spring
+  content : Something about the spring and cows. Could be a poem.
 
   # Contact details
   contact_list:
@@ -14,10 +14,10 @@ contact:
       info : "Phone: secret"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: who iuses them any way?"
+      info : "Fax: who uses them any way?"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: just use theform ;)"
+      info : "Email: just use the form ;)"
 
 
   # Contact form
