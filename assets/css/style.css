@@ -115,7 +115,7 @@ a:hover {
 .btn-transparent:focus {
   background-color: #208501;
   border: 1px solid transparent;
-  color: rgb(25, 35, 128);
+  color: #fff;  /* Button text when hovers*/
 }
 
 .border-meghna {
