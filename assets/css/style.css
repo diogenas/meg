@@ -161,7 +161,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #ffffff; /* Colour of sections*/
+  background-color: #fafafa; /* Colour of sections*/
 }
 
 .bg-dark {
@@ -321,7 +321,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #fafafa;   /*Colour of certain sections*/
+  background: #ffffff;   /*Colour of certain sections*/
 }
 
 .overly {
@@ -545,7 +545,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #fafafa;  /*Block background*/
+  background: #747474;  /*Block background*/
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -1986,7 +1986,7 @@ blockquote {
 
 .form-group:last-child,
 .form-group:last-child input {
-  margin: 0;
+  margin: 1;
 }
 
 .form-control-meghna .form-control {
