@@ -165,7 +165,7 @@ a:hover {
 }
 
 .bg-dark {
-  background: #4bbd3c;
+  background: #208501;
 }
 
 .parallax-section {
@@ -405,7 +405,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #dbdbdb;  /*Background of navigation bar*/
+  background-color: #fafafa;  /*Background of navigation bar*/
   width: 100%;
   margin-bottom: 1;
 }
