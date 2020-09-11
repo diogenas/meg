@@ -227,7 +227,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2085017;
+  background: #208501;
   color: #fff;
 }
 
@@ -387,7 +387,7 @@ a:hover {
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
-  color: rgb(50, 52, 150);
+  color: rgb(113, 114, 175);
   position: relative;
 }
 
@@ -553,7 +553,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid #272727;
 }
 
 .about .block:hover .icon-box {
@@ -568,8 +568,8 @@ a:hover {
   background-color: transparent;
   margin: 46.19px auto 60px;
   padding: 20px 0;
-  border-left: 2px solid rgba(236, 239, 241, 0.07);
-  border-right: 2px solid rgba(236, 239, 241, 0.07);
+  border-left: 2px solid #208501;
+  border-right: 2px solid #208501;
   font-size: 50px;
   -webkit-transform: translateZ(0px);
   transform: translateZ(0px);
@@ -594,18 +594,18 @@ a:hover {
 
 .about .block .icon-box:before {
   top: -56.5685px;
-  border-top: 2px solid rgba(236, 239, 241, 0.07);
-  border-right: 2px solid rgba(236, 239, 241, 0.07);
+  border-top: 2px solid #208501;
+  border-right: 2px solid #208501;
 }
 
 .about .block .icon-box:after {
   bottom: -56.5685px;
-  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
-  border-left: 2px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 2px solid #208501;
+  border-left: 2px solid #208501;
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #208501;
 }
 
 /*=================================================================
