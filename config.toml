@@ -55,20 +55,20 @@ name = "portfolio"
 URL = "portfolio"
 weight = 0
 
-[[menu.main]]
-name = "team"
-URL = "team"
-weight = 0
+#[[menu.main]]
+#name = "team"
+#URL = "team"
+#weight = 0
 
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 0
+#[[menu.main]]
+#name = "pricing"
+#URL = "pricing"
+#weight = 0
 
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 0
+#[[menu.main]]
+#name = "blog"
+#URL = "blog"
+#weight = 0
 
 [[menu.main]]
 name = "contact"
