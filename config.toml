@@ -45,15 +45,15 @@ name = "about"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "services"
-URL = "services"
-weight = 0
+#[[menu.main]]
+#name = "services"
+#URL = "services"
+#weight = 0
 
-[[menu.main]]
-name = "portfolio"
-URL = "portfolio"
-weight = 0
+#[[menu.main]]
+#name = "portfolio"
+#URL = "portfolio"
+#weight = 0
 
 #[[menu.main]]
 #name = "team"
